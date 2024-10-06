@@ -6,6 +6,8 @@
 
 The instuctor introduced Python and explaied why it is a popolar programming Language.
 Python is a great language for beginners
+
+
 1.It's easy to learn
 
 
