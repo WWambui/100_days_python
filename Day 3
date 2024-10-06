@@ -1,0 +1,13 @@
+print("Silly Random Recipes")
+print()
+Food_Type = input("Name a food!")
+Plant_Type = input("Name a plant!")
+Cooking_Method = input("Name a method of cooking!")
+Burned_Food = input("What word desribes burned food?")
+Household_Item = input("Name a household/DIY item!")
+print()
+print()
+print("MENU")
+print("For dinner you should make", Cooking_Method, Food_Type, "with",Burned_Food,
+Plant_Type,
+"on a bed of",Household_Item)
