@@ -2,6 +2,8 @@
 100 days of Replit's Python challenge 
 
 **Day 1**
+
+
 The instuctor introduced Python and explaied why it is a popolar programming Language.
 Python is a great language for beginners
 1.It's easy to learn
@@ -9,5 +11,11 @@ Python is a great language for beginners
 3.Offers versatile opportunities in web development, games, data science 
 
 **Day 2**
+
+
 Introdued input() function and variables
 Created an interactive code that takes user input.
+
+**Day 3**
+
+With the powers of concatenation I made a whacky recipe maker 🥓🍝🥑 !
