@@ -1,0 +1,18 @@
+print("Anime character creator")
+print()
+
+type = input("Do you like adventures?")
+if type == "yes":
+  print("Great!!You're character is similar to Naruto")
+else:
+  print("You're not Naruto")
+fight = input("Do you like fighting?")
+if fight == "yes":
+  print(" ah! You're just like Sasuke")
+else:
+  print("You're not Sasuke")
+helping = input("Do you like helping people?")
+if helping == "yes":
+  print(" oooh my!!,You're  just like Sakura")
+else:
+  print("You're not Sakura")
