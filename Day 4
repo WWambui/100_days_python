@@ -1,0 +1,16 @@
+print("=== Your Adventure SImulator ===")
+print(""" You'll be asked a bunch of questions then we'll make you up an amaizing 
+story with you as the star""")
+print()
+name = input("Yor name?")
+career = input("What is your career path?")
+skills = input("What skills are you learning?")
+motivation = input("What keeps you motivates to keep learning?")
+print()
+print("\033[35m","In pursuit of mastery","\033[0m", name,
+      "has delved deep into the world of", career, 
+"and has been learning", skills,)
+print("In a world full of distractions", 
+      name,        
+      "has apprenticed and achieved the level of accelerated returns")
+print("The motivation for", name, "to keep learning is", motivation)
