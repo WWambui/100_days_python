@@ -25,3 +25,7 @@ Created an interactive code that takes user input.
 **Day 3**
 
 With the powers of concatenation I made a whacky recipe maker 🥓🍝🥑 !
+
+**Day 4**
+
+Feel like a proper storyteller with the custom storybook that I coded up 📖
